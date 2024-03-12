@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sksohamsk@gmail.com**
 
-- 📄 Know about my experiences [I have learnt different programming languages like Python, C, C++, Java. I also know mySQLI. I am also good at giving precise prompts in various AI tools](I have learnt different programming languages like Python, C, C++, Java. I also know mySQLI. I am also good at giving precise prompts in various AI tools)
+- 📄 Know about my experiences I have learnt different programming languages like Python, C, C++, Java. I also know mySQL. I am also good at giving precise prompts in various AI tools](I have learnt different programming languages like Python, C, C++, Java. I also know mySQLI. I am also good at giving precise prompts in various AI tools)
 
 - ⚡ Fun fact **I also like making music and rendering 3d models**
 
